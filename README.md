@@ -6,4 +6,4 @@ Open AI gym for Rubik's cube
 pip install gym-cube
 ```
 
-See [Usage](Usage.ipynb) for more details
+See [Usage](https://colab.research.google.com/drive/12xXDC96ekRgBtmyKlhlvDkQrGo2MJHeZ) for more details
